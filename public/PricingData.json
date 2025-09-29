@@ -1,0 +1,108 @@
+[
+  {
+    "id": 1,
+    "name": "Day Pass",
+    "duration": "1 day",
+    "price": "$4.10 / day",
+    "description": "One‑day access to gym facilities for occasional or trial users.",
+    "features": [
+      "Gym floor access (cardio & strength machines)",
+      "Locker & shower use",
+      "No long‑term commitment",
+      "Access during staffed hours"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Basic",
+    "duration": "1 month",
+    "price": "$24.64 / month",
+    "description": "Entry level monthly membership for regular gym users.",
+    "features": [
+      "Gym equipment & machines",
+      "Standard operating hours (6 AM‑10 PM)",
+      "Locker & showers",
+      "No group classes included"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Standard",
+    "popular": true,
+    "duration": "3 months",
+    "price": "$69.78 / 3 months",
+    "description": "Mid‑tier membership with added benefits over Basic.",
+    "features": [
+      "Everything in Basic",
+      "Access to group classes (Yoga, Zumba, etc.)",
+      "Full‑day hours access",
+      "Locker & towel service"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Silver",
+    "duration": "6 months",
+    "price": "$131.35 / 6 months",
+    "description": "Longer commitment with enhanced amenities.",
+    "features": [
+      "Everything in Standard",
+      "Steam / sauna access",
+      "1 free guest pass per month",
+      "Custom workout plan"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Gold",
+    "duration": "12 months",
+    "price": "$246.29 / 12 months",
+    "description": "Full access membership with premium perks.",
+    "features": [
+      "24/7 access",
+      "Unlimited class access",
+      "2 personal training sessions per year",
+      "Premium locker room"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "VIP",
+    "duration": "12 months",
+    "price": "$369.44 / 12 months",
+    "description": "Top‑tier membership with maximum benefits and privileges.",
+    "features": [
+      "All Gold features",
+      "Additional personal training sessions",
+      "Spa / massage discounts",
+      "Priority booking for classes",
+      "Guest passes",
+      "Access to all gym branches"
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Student",
+    "duration": "3 months",
+    "price": "$57.45 / 3 months",
+    "description": "Discounted plan for students with valid ID.",
+    "features": [
+      "Same features as Standard",
+      "Discounted rate (student pricing)",
+      "Flexible hours"
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Senior",
+    "duration": "12 months",
+    "price": "$205.15 / 12 months",
+    "description": "Discounted membership for senior citizens (age eligibility required).",
+    "features": [
+      "Reduced price",
+      "Gentler / wellness classes",
+      "Flexible hours",
+      "Access to wellness programs"
+    ]
+  }
+]
